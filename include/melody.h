@@ -1,3 +1,7 @@
+// Melody and duration data adapted from:
+// “Playing Popular Songs with Arduino and a Buzzer”
+// (https://projecthub.arduino.cc/tmekinyan/playing-popular-songs-with-arduino-and-a-buzzer-546f4a)
+
 #ifndef MELODY_H
 #define MELODY_H
 #define REST 0
